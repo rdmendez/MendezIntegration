@@ -10,12 +10,12 @@ public class Main {
 	public static void main(String[] args) {
 
 		System.out.println("Welcome to my Integration Project!");
-		System.out.println("I am Roger Mendez and I am a junior at Florida Gulf Coast University, "
+		System.out.println("My name is Roger Mendez and I am a junior at Florida Gulf Coast University, "
 				+ "majoring in Computer Information Systems.");
-		System.out.println("I am a basketball fanatic and spend a majority of " + "my time playing NBA 2K19.");
+		System.out.println("I am a basketball fanatic and spend a majority of " + "my time playing basketball or watching basketball games or highlights.");
 		System.out
 				.println("Check out what I have learned so far through Hackerrank exercises and " + "video tutorials.");
-
+		System.out.println("There are 8 primitive data types that we went over in an Introduction to Programming.");
 		// 1. Byte = 8-bit and has min. value of -128 and max. value of 127
 		// 2. Short = 16-bit with min. value of -32,768 and max value of 32,767
 		// 3. int = 32-bit with min. value of -231 and max. value of 231-1 and use
@@ -51,6 +51,7 @@ public class Main {
 			double candyTwo = new Double("20");
 			System.out.println(candyTwo);
 
+		
 			// final is a non access modifier applicable only to a variable, a method or a
 			// class
 			final int i;
@@ -181,6 +182,7 @@ public class Main {
 
 		// takes one parameter and finds square root of #
 		System.out.println(Math.sqrt(9));
+	
 
 		int myInt = 30;
 		if (myInt < 10) {
