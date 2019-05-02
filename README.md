@@ -29,11 +29,11 @@ PSI 2
 11. Use relational operators - Relationship.java
 12. Use conditional operators - Relationship.java
 13. Describe operator precedence as a comment - Relationship.java
-14. Create and use while loops
+14. Create and use while loops - Relationship.java
 15. Create and use for loops - bottom of Main.java
-16. Create and use do/while loops
-17. Use break in a loop with a comment describing what it does
-18. Use continue in a loop with a comment describing what it does
+16. Create and use do/while loops - Relationship.java
+17. Use break in a loop with a comment describing what it does - Task.java
+18. Use continue in a loop with a comment describing what it does - Test.java
 
 PSI 3
 1. Make a class in a separate file with private fields, public getters and setters, a constructor with and without parameters
