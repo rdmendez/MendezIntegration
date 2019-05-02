@@ -26,11 +26,11 @@ PSI 2
 8. Use a switch statement - Task.java
 9. Compare two String objects by using the compareTo and equals methods and make a comment describing how == works with objects - Relationship.java
 10. Use +, -, *, /, %, ++, --, +=  - Relationship.java
-11. Use relational operators
-12. Use conditional operators
-13. Describe operator precedence as a comment
+11. Use relational operators - Relationship.java
+12. Use conditional operators - Relationship.java
+13. Describe operator precedence as a comment - Relationship.java
 14. Create and use while loops
-15. Create and use for loops
+15. Create and use for loops - bottom of Main.java
 16. Create and use do/while loops
 17. Use break in a loop with a comment describing what it does
 18. Use continue in a loop with a comment describing what it does
