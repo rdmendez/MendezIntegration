@@ -76,7 +76,22 @@ public class Relationship {
     // Certain operators tends to appear more frequently than others. Operator precedence focuses
     // first on the operators you're most likely to use on a regular basis, and ends focusing on
     // those that are less common.
-    
+
+    int value = 0;
+
+    while (value < 6) {
+      System.out.println("Hello championship rings!");
+      value = value + 1;
+    }
+
+    int counter = 0;
+
+    do {
+      System.out.println(counter);
+      counter++;
+    } while (counter <= 23);
+    // Count to 23 for the G.O.A.T! MICHAEL JORDAN!
+
 
   }
 
