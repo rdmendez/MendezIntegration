@@ -16,9 +16,9 @@ PSI 1
 13. Format strings using escape sequences - Main.java
 
 PSI 2
-1. Create a method with arguments and return values - Applications.java
-2. Identify a method call and argument in comments - Applications.java
-3. Identify a header and parameter in comments - Applications.java
+1. Create a method with arguments and return values - Application.java
+2. Identify a method call and argument in comments - Application.java
+3. Identify a header and parameter in comments - Application.java
 4. Use the Random class - Main.java
 5. Use the Math class - Main.java
 6. Create if/else constructs - Main.java under random class
