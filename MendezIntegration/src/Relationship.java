@@ -67,12 +67,16 @@ public class Relationship {
     if (myValue1 >= myValue2)
       System.out.println("myValue1 >= myValue2");
 
-    if((myValue1 == 11) && (myValue2 == 3))
-        System.out.println("myValue1 is 11 AND myValue2 is 3");
-    if((value1 == 11) || (value2 == 11))
-        System.out.println("myValue1 is 11 OR my Value2 is 11");
+    if ((myValue1 == 11) && (myValue2 == 3))
+      System.out.println("myValue1 is 11 AND myValue2 is 3");
+    if ((value1 == 11) || (value2 == 11))
+      System.out.println("myValue1 is 11 OR my Value2 is 11");
 
-    //6:36 am comment
+    // Operators with higher precedence are evaluated before operators with lower precedence.
+    // Certain operators tends to appear more frequently than others. Operator precedence focuses
+    // first on the operators you're most likely to use on a regular basis, and ends focusing on
+    // those that are less common.
+    
 
   }
 
