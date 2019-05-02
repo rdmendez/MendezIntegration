@@ -8,12 +8,12 @@ PSI 1
 5. Use a boolean variable with an appropriate name  (singular noun, lowerCamelCase) - Application.java
 6. Use an int variable with an appropriate name (singular noun, lowerCamelCase) - Application.java
 7. Use an double variable with an appropriate name (singular noun, lowerCamelCase) - Application.java 
-8. Use a String object with an appropriate name (singular noun, lowerCamelCase) - 
-9. Define (in English) the term "variable" as it relates to computer programming in a comment or the user interface
-10. Define (in English) the term "scope" as it relates to computer programming in a comment or the user interface
-11. Use final with a variable and describe what it means in a comment
-12. Use casting and describe what it means in a comment
-13. Format strings using escape sequences
+8. Use a String object with an appropriate name (singular noun, lowerCamelCase) - Application.java
+9. Define (in English) the term "variable" as it relates to computer programming in a comment or the user interface - Main.Java
+10. Define (in English) the term "scope" as it relates to computer programming in a comment or the user interface - Main.java
+11. Use final with a variable and describe what it means in a comment - Main.java
+12. Use casting and describe what it means in a comment - Main.java
+13. Format strings using escape sequences - Application.java
 
 PSI 2
 1. Create a method with arguments and return values
