@@ -12,4 +12,12 @@ public class Car {
 	public void setColor(String newColor) {
 		color = newColor;
 	}
+
+	public int getYear() {
+		return year;
+	}
+
+	public void setYear(int year) {
+		this.year = year;
+	}
 }

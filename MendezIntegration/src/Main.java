@@ -40,6 +40,7 @@ public class Main {
 			System.out.println("The value of a computer is: " + computer);
 		}
 
-		//comment in github
+		//comment in Github
+		//comment in Eclipse
 	}
 }

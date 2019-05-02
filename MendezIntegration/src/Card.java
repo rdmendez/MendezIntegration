@@ -15,7 +15,15 @@ public class Card {
 
 	public void draw() {
 		suite = "Diamonds"; // could be random
-		number = 4; // could be random
+		setNumber(4); // could be random
+	}
+
+	public int getNumber() {
+		return number;
+	}
+
+	public void setNumber(int number) {
+		this.number = number;
 	}
 
 }
