@@ -16,16 +16,16 @@ PSI 1
 13. Format strings using escape sequences - Main.java
 
 PSI 2
-1. Create a method with arguments and return values
-2. Identify a method call and argument in comments
-3. Identify a header and parameter in comments
-4. Use the Random class
-5. Use the Math class 
-6. Create if/else constructs - main.java
-7. Create ternary constructs
-8. Use a switch statement
-9. Compare two String objects by using the compareTo and equals methods and make a comment describing how == works with objects
-10. Use +, -, *, /, %, ++, --, += 
+1. Create a method with arguments and return values - Applications.java
+2. Identify a method call and argument in comments - Applications.java
+3. Identify a header and parameter in comments - Applications.java
+4. Use the Random class - Main.java
+5. Use the Math class - Main.java
+6. Create if/else constructs - Main.java under random class
+7. Create ternary constructs - Relationship.java
+8. Use a switch statement - Task.java
+9. Compare two String objects by using the compareTo and equals methods and make a comment describing how == works with objects - Relationship.java
+10. Use +, -, *, /, %, ++, --, +=  - Relationship.java
 11. Use relational operators
 12. Use conditional operators
 13. Describe operator precedence as a comment
