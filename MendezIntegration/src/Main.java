@@ -23,7 +23,7 @@ public class Main {
     String name = input.nextLine();
     // the method
     taskObject.simpleMessage(name);
-    
+
 
     // final is a non access modifier applicable only to a variable, a method or a
     // class
@@ -75,8 +75,8 @@ public class Main {
     double doubleValue = 33.3;
 
     doubleValue = intValue;
-    System.out
-        .println("Here, I have an example of casting. The double value having the same value as int which is "
+    System.out.println(
+        "Here, I have an example of casting. The double value having the same value as int which is "
             + doubleValue);
 
     double randInt = 5;
@@ -93,7 +93,7 @@ public class Main {
     }
   }
 
-  
+
 
   // comment in Github
   // comment in Eclipse
