@@ -10,7 +10,7 @@ public class Mail {
    
     // constructors
     public Mail(String name, double price) {
-      //work in progress
+      //work in progress PSI 3
       
     }
 }
