@@ -91,8 +91,19 @@ public class Main {
       number = 1 + dice.nextInt(6);
       System.out.println(number + " ");
     }
+  
+  // polymorphism; also look at animal, cat, and dog classes
+  Animal[] thelist = new Animal [2];
+  Dog d = new Dog();
+  Cat c = new Cat();
+  
+  thelist[0] = d;
+  thelist[1] = c;
+  
+    for (Animal x : thelist) {
+      x.noise();
   }
-
+}
 
 
   // comment in Github

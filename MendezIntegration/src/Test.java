@@ -16,6 +16,7 @@ public class Test {
       // and fields) of another. It provides powerful and natural mechanism for organizing and
       // structuring software. One of the key benefits of inheritance is to minimize the amount of
       // duplicate code in an application by sharing common code.
+      
     }
 
   }
