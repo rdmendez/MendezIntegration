@@ -41,7 +41,8 @@ public class Main {
     System.out.println("Check out what I have learned so far through Hackerrank exercises and "
         + "video tutorials.");
     System.out.println(
-        "There are 8 primitive data types that we went over in an Introduction to Programming.");
+        "There are 8 primitive data types that we went over in Introduction to Programming that "
+            + "include: " + "byte, short, int, long, float, double, boolean, and char");
     // 1. Byte = 8-bit, has min. value of -128 and max. value of 127
     // 2. Short = 16-bit, has min. value of -32,768 and max value of 32,767
     // 3. int = 32-bit has min. value of -2^31 and max. value of 2^31-1
