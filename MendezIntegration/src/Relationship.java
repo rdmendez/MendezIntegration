@@ -80,7 +80,8 @@ public class Relationship {
     int value = 0;
 
     while (value < 6) {
-      System.out.println("Hello championship rings!");
+      System.out.println("Hello championship ring!");
+      // Michael Jordan won 6 rings so it's only right we say it 6 times
       value = value + 1;
     }
 
