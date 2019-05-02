@@ -37,7 +37,7 @@ public class Main {
     }
 
     System.out.println("I am a basketball fanatic and spend a majority of "
-        + "my time playing basketball or watching basketball games or highlights.");
+        + "my time playing or watching basketball.");
     System.out.println("Check out what I have learned so far through Hackerrank exercises and "
         + "video tutorials.");
     System.out.println(
@@ -61,13 +61,16 @@ public class Main {
     // Casting - going from one data type to another
     int intValue = 700;
     double doubleValue = 33.3;
-    
+
     doubleValue = intValue;
-    System.out.println(
-        "An example of casting is the double value having the same value as int which is "
+    System.out
+        .println("An example of casting is the double value having the same value as int which is "
             + doubleValue);
 
     // comment in Github
     // comment in Eclipse
+
+
+
   }
 }
