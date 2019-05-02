@@ -61,7 +61,7 @@ public class Main {
     // Casting - going from one data type to another
     int intValue = 700;
     double doubleValue = 33.3;
-
+    
     doubleValue = intValue;
     System.out.println(
         "This is an example of casting because the double value equals the same value as int "
