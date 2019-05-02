@@ -1,6 +1,9 @@
 
-public class Dog extends Animal{
-  public void noise () {
+public class Dog extends Animal {
+  public void noise() {
     System.out.println("Woof");
   }
 }
+
+
+
