@@ -16,9 +16,9 @@ PSI 1
 13. Format strings using escape sequences - Main.java
 
 PSI 2
-1. Create a method with arguments and return values - Applications.java
-2. Identify a method call and argument in comments - Applications.java
-3. Identify a header and parameter in comments - Applications.java
+1. Create a method with arguments and return values - Application.java
+2. Identify a method call and argument in comments - Application.java
+3. Identify a header and parameter in comments - Application.java
 4. Use the Random class - Main.java
 5. Use the Math class - Main.java
 6. Create if/else constructs - Main.java under random class
@@ -29,16 +29,16 @@ PSI 2
 11. Use relational operators - Relationship.java
 12. Use conditional operators - Relationship.java
 13. Describe operator precedence as a comment - Relationship.java
-14. Create and use while loops
+14. Create and use while loops - Relationship.java
 15. Create and use for loops - bottom of Main.java
-16. Create and use do/while loops
-17. Use break in a loop with a comment describing what it does
-18. Use continue in a loop with a comment describing what it does
+16. Create and use do/while loops - Relationship.java
+17. Use break in a loop with a comment describing what it does - Task.java
+18. Use continue in a loop with a comment describing what it does - Test.java
 
 PSI 3
 1. Make a class in a separate file with private fields, public getters and setters, a constructor with and without parameters
 2. Overload a method
-3. Describe inheritance and its benefits
+3. Describe inheritance and its benefits - Test.java
 4. Develop code that makes use of polymorphism
 5. Use super and this to access objects and constructors
 6. Declare, instantiate, initialize and use a one-dimensional array
