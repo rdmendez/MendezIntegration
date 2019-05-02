@@ -13,15 +13,15 @@ PSI 1
 10. Define (in English) the term "scope" as it relates to computer programming in a comment or the user interface - Main.java
 11. Use final with a variable and describe what it means in a comment - Main.java
 12. Use casting and describe what it means in a comment - Main.java
-13. Format strings using escape sequences - Application.java
+13. Format strings using escape sequences - Main.java
 
 PSI 2
 1. Create a method with arguments and return values
 2. Identify a method call and argument in comments
 3. Identify a header and parameter in comments
 4. Use the Random class
-5. Use the Math class
-6. Create if/else constructs
+5. Use the Math class 
+6. Create if/else constructs - main.java
 7. Create ternary constructs
 8. Use a switch statement
 9. Compare two String objects by using the compareTo and equals methods and make a comment describing how == works with objects
