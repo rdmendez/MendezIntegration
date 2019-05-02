@@ -20,6 +20,26 @@ public class Application {
     // %s a string
     System.out.format("%s jumped %n over the %s, %d time %n", "Blake Griffin", "KIA", 1);
 
+
+    double radius = 5.0;
+    double area;
+    area = calculateArea(radius);
+    System.out.println("The area is " + area);
+  }
+  
+  // top line of method is a header
+  // the header is the line starting in public static ending in double radius
+  // variable you pass is called an argument
+  public static double calculateArea(double radius) {
+    return Math.PI * radius * radius;
+    // public static - modifier
+    // double - return type
+    // calculateArea - name of method
+    // radius - formal parameter
+    // double radius - list of parameters
+    
+
+    
     
   }
 }

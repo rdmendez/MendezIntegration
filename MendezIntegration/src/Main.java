@@ -1,3 +1,7 @@
+import java.util.*;
+import java.util.Scanner;
+import java.util.Random;
+
 // Roger Mendez
 /*
  * This is a program integrating skills and knowledge that I have learned in an Introduction to
@@ -12,7 +16,14 @@ public class Main {
   // method names should be in lowerCamelCase and be named with a verb
   public static void main(String[] args) {
 
-    System.out.println("Welcome to my Integration Project!");
+    Scanner input = new Scanner(System.in);
+    Task taskObject = new Task();
+
+    System.out.println("Enter your name here: ");
+    String name = input.nextLine();
+    // the method
+    taskObject.simpleMessage(name);
+    
 
     // final is a non access modifier applicable only to a variable, a method or a
     // class
@@ -29,7 +40,7 @@ public class Main {
     {
       if (basketball) {
         // code that only happens when condition is true
-        System.out.println("I also love basketball.");
+        System.out.println("I love basketball.");
       } else {
         // code that only happens when condition is false
         System.out.println("I dont like basketball.");
@@ -37,9 +48,9 @@ public class Main {
     }
 
     System.out.println("I am a basketball fanatic and spend a majority of "
-        + "my time playing or watching basketball.");
+        + "my time either playing or watching basketball." + "\n");
     System.out.println("Check out what I have learned so far through Hackerrank exercises and "
-        + "video tutorials.");
+        + "video tutorials." + "\n");
     System.out.println(
         "There are 8 primitive data types that we went over in Introduction to Programming that "
             + "include: " + "byte, short, int, long, float, double, boolean, and char");
@@ -55,8 +66,8 @@ public class Main {
     // 8. Char = Single 16-bit Unicode character with min value of 0 and max of 65,535
 
     /*
-     * A variable is a location in memory. It's like a box that you can put values in to. Scope is
-     * the visibility of variables & the parts of program that can be seen and used.
+     * A variable is a location in memory. It's like a box that you can put values in to. Scope is a
+     * variable only accessible in the method where they are created.
      */
 
     // Casting - going from one data type to another
@@ -65,13 +76,25 @@ public class Main {
 
     doubleValue = intValue;
     System.out
-        .println("An example of casting is the double value having the same value as int which is "
+        .println("Here, I have an example of casting. The double value having the same value as int which is "
             + doubleValue);
 
-    // comment in Github
-    // comment in Eclipse
+    double randInt = 5;
+    double power = Math.pow(randInt, 2);// used math class power
+    System.out.println("The math class I used gives us " + power + "\n");
 
+    Random dice = new Random(); // used random class
+    int number;
 
-
+    //
+    for (int counter = 1; counter <= 10; counter++) {
+      number = 1 + dice.nextInt(6);
+      System.out.println(number + " ");
+    }
   }
+
+  
+
+  // comment in Github
+  // comment in Eclipse
 }

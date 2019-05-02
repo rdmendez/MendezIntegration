@@ -1,33 +1,34 @@
+import java.util.Scanner;
+
 // Roger Mendez
 
 public class Task {
 
-  byte byteValue = 120;
-  int intValue = 888;
-  float floatValue = 8834.8f;
-  double doubleValue = 32.4;
+  public void simpleMessage(String name) {
+    
+    Scanner input = new Scanner(System.in);
+    
 
-  
-  int blueTickets, redTickets, Tickets; {
-  blueTickets = 30;
-  redTickets = 20;
-  Tickets = blueTickets + redTickets;
-  System.out.println("There is a total of " + Tickets + " Tickets.");
-
-  int dogs, cats, animals;
-  dogs = 5;
-  cats = 3;
-  animals = dogs + cats;
-  System.out.println("My friend has " + animals + " pets.");
-
-
-  int computer = 250;
-  {
-    System.out.println("The value of a computer is: " + computer);
+    // print out greeting using escape methods
+    System.out.println("Hey! How are you doing " + name + "? "
+        + "\nWelcome to my integration project! I hope you're doing well and that you enjoy looking "
+        + "through my program! ");
+    
+    System.out.println("Please enter a command here:");
+    String text =input.nextLine();
+    
+    switch (text) {
+      case "start":
+      System.out.println("Program has booted up!");
+      break;
+      
+      case "stop":
+        System.out.println("Program is running slowly.");
+        break;
+        
+        default:
+          System.out.println("ERROR! Command not recognized. Please try again.");
+    }
   }
-  
-  
-  
-}
 }
 
