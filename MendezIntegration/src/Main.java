@@ -64,7 +64,7 @@ public class Main {
     
     doubleValue = intValue;
     System.out.println(
-        "This is an example of casting because the double value equals the same value as int "
+        "An example of casting is the double value having the same value as int which is "
             + doubleValue);
 
     // comment in Github
