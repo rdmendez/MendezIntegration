@@ -27,7 +27,7 @@ public class Task {
       case "stop":
         System.out.println("Program is running slowly.");
         break;
-
+        
       default:
         System.out.println("ERROR! Command not recognized. Please try again.");
     }
