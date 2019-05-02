@@ -1,31 +1,24 @@
 // Roger Mendez
-/*
- * This is a program integrating skills and knowledge that I have learned in an Introduction to
- * Programming class.
- */
 
 public class Application {
   {
-    int number = 100;
-    short myShort = 867;
-    long myLong = 9797;
+    int myNumber = 50;
 
-    double myDouble = 7.3243;
-    float myFloat = 324.3f;
+    double myDouble = 85000;
 
-    char myChar = 'y';
-    boolean myBoolean = true;
+    boolean myBoolean = false;
 
-    byte myByte = 127;
+    String myString = "This is a string.";
 
-    System.out.println(number);
-    System.out.println(myShort);
-    System.out.println(myLong);
+    System.out.println(myNumber);
     System.out.println(myDouble);
-    System.out.println(myFloat);
-    System.out.println(myChar);
     System.out.println(myBoolean);
-    System.out.println(myByte);
+    System.out.println(myString);
+
+    // %d decimal number
+    // %n line break
+    // %s a string
+    System.out.format("%s jumped %n over the %s, %d time %n", "Blake Griffin", "KIA", 1);
 
   }
 }
