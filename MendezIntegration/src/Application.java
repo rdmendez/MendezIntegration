@@ -21,5 +21,6 @@ public class Application {
     System.out.format("%s jumped %n over the %s, %d time %n", "Blake Griffin", "KIA", 1);
 
     //comment for fun
+    
   }
 }
