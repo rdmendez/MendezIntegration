@@ -9,9 +9,11 @@ public class Relationship {
     int d = 4;
     
     System.out.println(a++);
-    System.out.println(--a);
-    System.out.println(a * c - a / b);
-    System.out.println(a + c % b);
+    System.out.println(--b);
+    System.out.println(a * c);
+    System.out.println(d / b);
+    System.out.println(a + c);
+    System.out.println(d % c);
     System.out.println(d+=4);
     
 
