@@ -1,14 +1,14 @@
 # MendezIntegration
-
 PSI 1
+
 1. Add your name as a comment at top of every file
-2. Add a description of the program as a comment at top
-3. Add a list and description of Java built-in data types within the user interface or in comments
-4. Add a greeting / introduction to the user
-5. Use a boolean variable with an appropriate name  (singular noun, lowerCamelCase)
-6. Use an int variable with an appropriate name (singular noun, lowerCamelCase)
-7. Use an double variable with an appropriate name (singular noun, lowerCamelCase)
-8. Use a String object with an appropriate name (singular noun, lowerCamelCase)
+2. Add a description of the program as a comment at top - Main.Java
+3. Add a list and description of Java built-in data types within the user interface or in comments - Main.java
+4. Add a greeting / introduction to the user -  Main.java
+5. Use a boolean variable with an appropriate name  (singular noun, lowerCamelCase) - Application.java
+6. Use an int variable with an appropriate name (singular noun, lowerCamelCase) - Application.java
+7. Use an double variable with an appropriate name (singular noun, lowerCamelCase) - Application.java 
+8. Use a String object with an appropriate name (singular noun, lowerCamelCase) - 
 9. Define (in English) the term "variable" as it relates to computer programming in a comment or the user interface
 10. Define (in English) the term "scope" as it relates to computer programming in a comment or the user interface
 11. Use final with a variable and describe what it means in a comment
