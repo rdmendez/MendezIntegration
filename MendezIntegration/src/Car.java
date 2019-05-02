@@ -1,5 +1,5 @@
 // Roger Mendez
-//This is a program integrating skills that I have learned in an Introduction to Programming class.
+// This is a program integrating skills that I have learned in an Introduction to Programming class.
 public class Car {
 
 	private String color;
