@@ -38,7 +38,7 @@ PSI 2
 PSI 3
 1. Make a class in a separate file with private fields, public getters and setters, a constructor with and without parameters
 2. Overload a method
-3. Describe inheritance and its benefits
+3. Describe inheritance and its benefits - Test.java
 4. Develop code that makes use of polymorphism
 5. Use super and this to access objects and constructors
 6. Declare, instantiate, initialize and use a one-dimensional array
