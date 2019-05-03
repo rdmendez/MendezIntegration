@@ -36,7 +36,7 @@ PSI 2
 18. Use continue in a loop with a comment describing what it does - Test.java
 
 PSI 3
-1. Make a class in a separate file with private fields, public getters and setters, a constructor with and without parameters
+1. Make a class in a separate file with private fields, public getters and setters, a constructor with and without parameters - Tool.java
 2. Overload a method
 3. Describe inheritance and its benefits - Test.java
 4. Develop code that makes use of polymorphism - Main.java, Animal.java, Dog.java, Cat.java
