@@ -1,4 +1,8 @@
 // Roger Mendez
+/*
+ * This is a program integrating skills and knowledge that I have learned in an Introduction to
+ * Programming class.
+ */
 
 public class Test {
 
@@ -17,7 +21,33 @@ public class Test {
       // structuring software. One of the key benefits of inheritance is to minimize the amount of
       // duplicate code in an application by sharing common code.
 
+      // declaration and instantiation
+      int a[] = new int[3];
+
+      // initialization
+      a[0] = 10;
+      a[1] = 20;
+      a[2] = 30;
+
+
+      // traversing array
+      for (int i = 0; i < a.length; i++)// length is the property of array
+        System.out.println(a[i]);
+
+      // one-dimensional array
+      int[] values = {1, 100, 1000};
+      System.out.println(values[2]);
     }
+  }
+      // manually find smallest value in an array
+      public static int getMinValue(int[] numbers){
+        int minValue = numbers[0];
+        for(int i=1;i<numbers.length;i++){
+          if(numbers[i] < minValue){
+            minValue = numbers[i];
+          }
+        }
+        return minValue;
 
   }
 }
