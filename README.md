@@ -44,7 +44,7 @@ PSI 3
 6. Declare, instantiate, initialize and use a one-dimensional array - Test.java
 7. Manually find the smallest value in an array - Test.java
 8. Get a sum of the values in an array using an accumulator. - Test.java
-9. Search an array and identify the index where a value was found.
+9. Search an array and identify the index where a value was found. - Array.java
 10. Create and use the enhanced for loop
 11. Declare, instantiate, initialize and use multi-dimensional arrays
 12. Declare and use an ArrayList of a given type
