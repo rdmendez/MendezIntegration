@@ -39,15 +39,16 @@ public class Test {
       System.out.println(values[2]);
     }
   }
-      // manually find smallest value in an array
-      public static int getMinValue(int[] numbers){
-        int minValue = numbers[0];
-        for(int i=1;i<numbers.length;i++){
-          if(numbers[i] < minValue){
-            minValue = numbers[i];
-          }
-        }
-        return minValue;
+
+  // manually find smallest value in an array
+  public static int getMinValue(int[] numbers) {
+    int minValue = numbers[0];
+    for (int i = 1; i < numbers.length; i++) {
+      if (numbers[i] < minValue) {
+        minValue = numbers[i];
+      }
+    }
+    return minValue;
 
   }
 }
