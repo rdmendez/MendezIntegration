@@ -49,8 +49,17 @@ public class Test {
       }
     }
     return minValue;
+  }
 
+  // getting sum of values of an array
+  public static void sum() {
+    int roger[] = {3, 6, 9, 12, 15};
+    int sum = 0;
+
+    for (int counter = 0; counter < roger.length; counter++) {
+      sum += roger[counter];
+    }
+    System.out.println("The sum of these numbers is " + sum);
   }
 }
-
 
