@@ -24,7 +24,7 @@ public class Main {
     // the method
     taskObject.simpleMessage(name);
 
-
+    
     // final is a non access modifier applicable only to a variable, a method or a
     // class
     final int i;
