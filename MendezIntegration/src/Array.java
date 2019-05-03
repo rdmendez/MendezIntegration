@@ -1,4 +1,3 @@
-import java.util.*;  
 import java.util.Arrays;
 import java.util.ArrayList;
 
@@ -10,6 +9,8 @@ import java.util.ArrayList;
  */
 
 public class Array {
+
+  private static int[][] arr2s;
 
   public static void main(String args[]) {
     // declaring and initializing multi-dimensional array
@@ -62,7 +63,8 @@ public class Array {
       for (int i = 0; i < 300; ++i) {
         for (int j = 0; j < 300; ++j) {
             int[][] arr = null;
-            if (arr[i][j] == 255) {
+            arr2s = arr;
+            if (arr2s[i][j] == 255) {
                 // Found the correct i,j - print them or return them or whatever
             } 
         }
