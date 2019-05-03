@@ -43,7 +43,7 @@ PSI 3
 5. Use super and this to access objects and constructors - Tool.java
 6. Declare, instantiate, initialize and use a one-dimensional array - Test.java
 7. Manually find the smallest value in an array - Test.java
-8. Get a sum of the values in an array using an accumulator.
+8. Get a sum of the values in an array using an accumulator. - Test.java
 9. Search an array and identify the index where a value was found.
 10. Create and use the enhanced for loop
 11. Declare, instantiate, initialize and use multi-dimensional arrays
