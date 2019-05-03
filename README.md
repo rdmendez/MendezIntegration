@@ -40,9 +40,9 @@ PSI 3
 2. Overload a method - Sum.java
 3. Describe inheritance and its benefits - Test.java
 4. Develop code that makes use of polymorphism - Main.java, Animal.java, Dog.java, Cat.java
-5. Use super and this to access objects and constructors
-6. Declare, instantiate, initialize and use a one-dimensional array
-7. Manually find the smallest value in an array
+5. Use super and this to access objects and constructors - Tool.java
+6. Declare, instantiate, initialize and use a one-dimensional array - Test.java
+7. Manually find the smallest value in an array - Test.java
 8. Get a sum of the values in an array using an accumulator.
 9. Search an array and identify the index where a value was found.
 10. Create and use the enhanced for loop
