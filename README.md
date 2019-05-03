@@ -46,7 +46,7 @@ PSI 3
 8. Get a sum of the values in an array using an accumulator. - Test.java
 9. Search an array and identify the index where a value was found. - Array.java
 10. Create and use the enhanced for loop - Array.java
-11. Declare, instantiate, initialize and use multi-dimensional arrays
+11. Declare, instantiate, initialize and use multi-dimensional arrays - Array.java
 12. Declare and use an ArrayList of a given type
 13. Search a two-dimensional array and identify the coordinates where a value was found
 14. Effectively utilize exception handling for user input of an int
