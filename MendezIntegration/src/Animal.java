@@ -6,7 +6,7 @@
 
 public class Animal {
 
-  public void noise () {
+  public void noise(){
     System.out.println("Animals are always loud and make noise.");
   }
   

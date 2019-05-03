@@ -5,7 +5,7 @@
  */
 
 public class Cat extends Animal {
-  public void noise () {
+  public void noise() {
     System.out.println("Meow");
   }
 }

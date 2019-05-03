@@ -40,6 +40,9 @@ public class Array {
     return 0;
   }
 
+  /**
+   * @return
+   */
   public static int findArrayValue() {
 
     Integer[] array = {1, 2, 3, 4, 5, 6};

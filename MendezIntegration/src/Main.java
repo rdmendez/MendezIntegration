@@ -7,12 +7,20 @@ import java.util.Random;
  * Programming class.
  */
 
+
+/**
+ * @author rogermendez
+ *
+ */
 public class Main {
 
   // this is a header
   // public is an access modifier
   // void is the return type, meaning this method doesn't return anything
   // method names should be in lowerCamelCase and be named with a verb
+  /**
+   * @param args
+   */
   public static void main(String[] args) {
 
     Scanner input = new Scanner(System.in);
