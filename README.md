@@ -37,7 +37,7 @@ PSI 2
 
 PSI 3
 1. Make a class in a separate file with private fields, public getters and setters, a constructor with and without parameters - Tool.java
-2. Overload a method
+2. Overload a method - Sum.java
 3. Describe inheritance and its benefits - Test.java
 4. Develop code that makes use of polymorphism - Main.java, Animal.java, Dog.java, Cat.java
 5. Use super and this to access objects and constructors
